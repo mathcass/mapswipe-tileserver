@@ -13,3 +13,11 @@ Then, set the environment variables
 * `BING_KEY` set to your Bing maps developer key
 
 Now, run `flask run` to run the server. In development, you can visit the url [http://localhost:5000/tile/1/2/3/](http://localhost:5000/tile/1/2/3/) to see the actual tile. After you've visited a tile a few times, visit [http://localhost:5000/count/1/2/3/](http://localhost:5000/count/1/2/3/) to see the number of times it has been viewed.
+
+### Tile Image
+
+![Image for the tile](tile_image.png)
+
+### Tile Count
+
+![Count for the tile](tile_count.png)
